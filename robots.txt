@@ -1,0 +1,5 @@
+# tylerleleux.com — official site of Tyler LeLeux. All search and AI crawlers welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://tylerleleux.com/sitemap.xml

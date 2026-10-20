@@ -1,0 +1,9 @@
+/* TEAM */
+Owner: Tyler LeLeux
+Site: tylerleleux.com
+Location: Tampa, Florida, USA
+Contact: tyler@ttgmanagement.io
+
+/* SITE */
+Last update: 2026-10-20
+Standards: HTML5, CSS3, schema.org JSON-LD
